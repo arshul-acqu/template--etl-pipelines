@@ -1,0 +1,14 @@
+arrow==1.2.2
+pandas==1.4.0
+pangres==4.1
+psycopg2-binary==2.9.3
+SQLAlchemy==1.4.31
+pymysql==1.0.2
+pycountry==22.3.5
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.20.9
+apache-airflow[sentry]
+openpyxl==3.0.5
+gspread==5.6.2
+numpy
+pendulum
